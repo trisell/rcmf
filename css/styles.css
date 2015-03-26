@@ -1,0 +1,274 @@
+.head{
+  background-attachment: fixed;
+  background-image: url('/pictures/firefighter2.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 10px;
+  padding-bottom: 0px;
+  //margin: 0;
+  background-color: rgb(245,245,245);
+}
+html{
+  margin: 0;
+}
+.pad{
+  padding-top: 100px;
+  text-align: center;
+}
+.randy{
+  padding-right: 50px;
+}
+.memorial{
+  padding-right: 10px;
+}
+.intro{
+  font-size: 80px;
+  text-align: right;
+  color: white;
+  padding-right: 170px;
+  padding-top: 30px;
+  font-family: 'Oswald', sans-serif;
+}
+
+.intro2{
+  font-size: 60px;
+  text-align: right;
+  color: white;
+  padding-right: 140px;
+  padding-top:  10px;
+  font-family: 'Oswald', sans-serif;
+}
+.golf{
+  font-size: 80px;
+}
+
+.quote1{
+  font-size: 50px;
+  text-align: Center;
+  color: black;
+  padding-right: 100px;
+  padding-top:  10px;
+}
+#features {
+  background-attachment: fixed;
+  background-image: url("/pictures/gray.png");
+  padding:130px 0;
+  color:#f9f9f9;
+ 
+}
+
+#features p {
+  font-size: 18px;
+  padding: 0 20px;
+}
+#training{
+  background-image: url('/pictures/firefightertraining2.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  padding-top: 10px;
+  //margin: 0;
+}
+.training2{
+  font-size: 60px;
+  color: firebrick;
+  text-align: right;
+  padding-right: 20px;
+  padding-top: 100px;
+}
+.header2{
+  background-color: rgb(245,245,245);
+}
+.foundation{
+  font-size: 30px;
+  text-align: center;
+  margin: 0;
+}
+.purpose{
+  font-size: 50px;
+  text-align: Center;
+  color: black;
+  padding-right: 100px;
+  padding-top:  10px;
+}
+
+.training3{
+  font-size: 30px;
+  text-align: center;
+
+}
+.history{
+  font-size 40px;
+  text-align: center;
+  padding-top: 0px;
+}
+#golf{
+  background-image: url("/pictures/golfbackground2.jpg");
+}
+.golf{
+  background-image: url("/pictures/golfbackground2.jpg");
+  background-size: cover;
+  font-size: 80px;
+  margin: 0;
+
+}
+
+body{
+
+  background-color: #393939;
+  //background-attachment: fixed;
+  margin: 0;
+}
+
+.circle {
+margin-top: 30px;
+width: 300px;
+height: 300px;
+border-radius: 150px;
+-webkit-border-radius: 150px;
+-moz-border-radius: 150px;
+-webkit-transition: all .4s ease-out;
+-moz-transition: all .4s ease-out;
+-ms-transition: all .4s ease-out;
+-o-transition: all .4s ease-out;
+transition: all .4s ease-out;
+}
+#participation {
+background: #393939;
+padding: 100px 0;
+color: #f9f9f9;
+}
+.span-container {
+text-align: center;
+line-height: 300px;
+vertical-align: middle;
+width: 300px;
+margin: 0 auto;
+font-size: 26px;
+font-weight: 200;
+}
+.thing{
+  text-align: center;
+}
+
+.row {
+  margin-left: -20px;
+}
+#supporters {
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-image: url("/pictures/lightgray.jpg");
+padding-bottom: 80px;
+}
+.btn {
+height: 100px;
+width: 185px;
+margin-top: 5px;
+padding-top: 8px;
+background-color: #f9f9f9;
+outline: 0;
+border: 0;
+color: #393939;
+font-weight: bold;
+font-size: 25px;
+-webkit-font-smoothing: antialiased;
+border-radius: 3px;
+cursor: pointer !important;
+position: relative;
+-webkit-transition: background-color 0.5s;
+-moz-transition: background-color 0.5s;
+-ms-transition: background-color 0.5s;
+-o-transition: background-color 0.5s;
+transition: background-color 0.5s;
+}
+.carousel-control.right {
+right: 0;
+left: auto;
+background-image: -webkit-linear-gradient(left,rgba(0,0,0,.0001) 0,rgba(0,0,0,.5) 100%);
+background-image: -o-linear-gradient(left,rgba(0,0,0,.0001) 0,rgba(0,0,0,.5) 100%);
+background-image: -webkit-gradient(linear,left top,right top,from(rgba(0,0,0,.0001)),to(rgba(0,0,0,.5)));
+background-image: linear-gradient(to right,rgba(0,0,0,.0001) 0,rgba(0,0,0,.5) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#80000000', GradientType=1);
+background-repeat: repeat-x;
+}
+#carp {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.modal {
+    overflow-y:auto;
+    
+}
+#show-me {
+  display: none;
+}
+#pokerbtn{
+  padding-left: 100px
+}
+#golfThankYou{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+#pokerThankYou{
+  padding-right: 10px;
+  padding-left: 10px;
+}
+@media (max-width: 1024px){
+  .head{
+    background: url('/pictures/firefighter2.jpg');
+
+  }
+  .intro{
+    padding-right: 10px;
+  }
+  .intro2{
+    padding-right: 10px;
+  }
+  #training{
+     background:url('/pictures/firefightertraining2.jpg') no-repeat;
+  }
+  #supporters{
+    background: url("/pictures/lightgray.jpg");
+  }
+  #features{
+    padding-top: 100px;
+  }
+  
+}
+@media (max-width: 767px){
+  .head{
+    background-image: url('/pictures/black.png');
+    background-color: black;
+  }
+  .intro{
+    text-align: center;
+    font-size: 60px;
+  }
+  .intro2{
+    text-align: left;
+    padding-left: 70px;
+    font-size: 40px;
+  }
+  #training{
+    background-image: url("/pictures/black.png");
+  }
+  .training2{
+    color: white;
+    font-size: 40px;
+    text-align: left;
+    padding-left: 10px;
+  }
+  #features{
+    padding: 30px;
+  }
+  #supporters{
+    background-color: #d3d3d3;
+  }
+  .pad{
+    padding-bottom: 20px;
+    padding-top: 0;
+    padding-left: 20px;
+  }
+
+}

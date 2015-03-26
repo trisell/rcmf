@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+  <title>Randy Carpenter Memorial Foundation</title>
+  <!--<link rel="stylesheet" href="css/marketing.css">-->
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<div class="head container col-sm-12">
+    <p class="intro"><span class="randy">Randy</span><br>Carpenter<br><span class="memorial">Memorial</span><br>Foundation</p>
+    <p class="intro2">Helping Firefighters Come Home<br><br></p>
+</div>
+<div id="features">
+	<div class="container pag">
+		<!--<div class="row">-->
+		  <h1  class="col-sm-12 pad">Providing Firefighters with:</h1>
+			<div class="col-sm-4 pad">
+			<img src="pictures/TrainingConversation.jpg" class="img-rounded" alt=""/>
+			<h2>Fire Ground Training</h2>
+			<p>Through Hands On Experience</p>
+			</div>
+			<div  class="col-sm-4 pad">
+			<img class="img-rounded" src="pictures/classroom.jpg" alt="" />
+			<h2>Classroom Training</h2>
+			<p>With world renowed experts</p>
+			</div>
+			<div  class="col-sm-4 pad">
+			<img class="img-rounded" src="pictures/equipment.jpg" alt="" />
+			<h2>Training Equipment</h2>
+			<p>Allowing High Quality Repeatable Training</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="col-sm-12 container" id="training">
+   <p class="training2">"PREPARATION<br> is the SEPARATION<br> between being a <br> good Firefighter <br>- or becoming the BEST" <br> Capt. Randy Carpenter<br><br><br></p>
+  </div>
+<div id="features">
+	<div class="container pag">
+		<h1  class="col-sm-12 pad">How you can participate.</h1>
+		<div  class="col-sm-3 pad">
+		<a href='#' data-toggle='modal' data-target='#golfevent'><img class="img-rounded" src="pictures/golf.jpg"/></a>
+		<h2>The 2015 RCMF Memorial Golf and Poker Tournament.</h2> <a href='#' data-toggle='modal' data-target='#golfevent'><h2 style='color:red'>Register Here!!</h2></a>
+		</div>
+		<div  class="col-sm-3 pad">
+		<button class="btn" data-ct-checkout="rcmf.donations--2">Donate Now</button>
+		<h2>Donate to the Foundation</h2>
+		</div>
+		<div  class="col-sm-3 pad">
+		<a href='#' data-toggle='modal' data-target='#sponsorInfo'><img class="img-rounded" src="pictures/helmet.gif"/></a>
+		<h2>Sponsor the Foundation</h2>
+        </div>
+        <div  class="col-sm-3 pad">
+        <a href='#' data-toggle='modal' data-target='#tvgolfevent'><img class="img-rounded" src="pictures/tvgolf.jpg"/></a>
+        <h2>The 2015 RCMF Treasure Valley Golf & Poker Tournament.</h2> <a href='#' data-toggle='modal' data-target='#tvgolfevent'><h2 style='color:red'>2015 Dates Have Been Set!!</h2></a>
+        </div>
+		
+	</div>
+</div>
+
+
+<div class="modal fade" id="tvgolfevent" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                
+                <h2 class="modal-title" style="text-align: center">2015 RCMF Treasure Valley Golf & Poker Tournament</h2>
+            </div>
+            <div class="modal-body">
+                <h2></h2>
+                <h3>
+                   The Randy Carpenter Memorial Foundation is proud to announce the dates for the 2015 Treasure Valley Golf & Poker Tournament.
+                </h3>
+                <h3>   
+                   The evening of August 27th will be the poker tournament.
+                </h3>
+                <h3>   
+                   The morning of August 28th will be the memorial scramble.
+                </h3>
+                <h3>   
+                   Further information with exact times and locations will be forthcoming as well as a sign up form and sponsor information. 
+                </h3>
+                <h3>    
+                   Please check back here for more information.
+                   Also make sure to follow RCMF on <a href="https://www.facebook.com/pages/Randy-Carpenter-Memorial-Foundation/28609380079">Facebook.</a>
+
+                </h3> 
+            </div>       
+        </div>
+    </div>
+</div>    
+<div class="modal fade" id="sponsorInfo" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                
+                <h2 class="modal-title" style="text-align: center">2015 RCMF Sponsorship</h2>
+            </div>
+            <div class="modal-body">
+                <h3>
+                    The Randy Carpenter Memorial Foundation has several levels of avaliable sponsorship for 2015. 
+                </h3>
+                <h3>
+                    Hole Sponsor - $125
+                </h3>
+                <h4>
+                    This is a sponsorship of one hole at one of our two memorial golf tournament. This sponsorship includes a sponsor sign on the hole, as well as the right to setup a booth on your hole
+                </h4>
+                <h3>
+                    Team Sponsor - $450
+                </h3>
+                <h4>
+                    This sponsorship will pay for the entry fees of 4 team members to play in the golf tournament as well as attend the dinner and auction.
+                </h4>
+                <h3>
+                    Bronze Sponsor - $200
+                </h3>
+                <h4>
+                    A Bronze sponsor will have their name displayed at the Poker Tournament, at registration for the golf tournament, and at the dinner and auction. This sponsor level also includes being listed in our sponsor section of the RCMF website for one year.
+                </h4>
+                <h3>
+                    Silver Sponsor - $350
+                </h3>
+                <h4>
+                    A Silver sponsor will have their name displayed at the Poker Tournament, at registration for the golf tournament, and at the dinner and auction. This sponsor level also includes being listed in our sponsor section of the RCMF website for one year.
+                </h4>
+                <h3>
+                    Gold Sponsor - $500
+                </h3>
+                <h4>
+                    A gold sponsor will have their name displayed at the Poker Tournament, at registration for the golf tournament, and at the dinner and auction. This sponsor level also includes being listed in our sponsor section of the RCMF website for one year.
+                </h4>
+                <h3>
+                    Platinum Sponsor - $1500
+                </h3>
+                <h4>
+                    A platinum level sponsorship includes tournament fees for one team. Listing as a Platinum sponsor at the golf tournament registration, as well as the dinner and charity auction that follows.<br/><br/>
+                    The Platinum level sponsorship also includes being listed as a major sponsor on the front page of the Randy Carpenter Memorial Foundation website, including a Large banner with you or your companies logo and a link to your website for one year.
+                </h4>
+                <h3>
+                    Diamond Sponsor - $2500
+                </h3>
+                <h4>  
+                    A Diamond level sponsorship includes tournament fees for two teams. Listing as a Diamond sponsor at the golf tournament registration, as well as the dinner and charity auction that follows.<br/><br/>
+                    The Diamond level sponsorship also includes a spot as a listed sponsor on the front page of the Randy Carpenter Memorial Foundationwebsite, including a Large banner with you or your companies logo and a link to your website for one year.
+                </h4>
+            </div>       
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="golfevent" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                
+                <h2 class="modal-title" style="text-align: center">2015 RCMF Oregon Memorial Golf & Poker Tournament
+                </h2>
+                </div>
+                <div class="modal-body">
+                	                <h2>
+                Big Changes are coming to the RCMF Memorial Golf and Poker Tournament in 2015!!!!!!!!
+                </h2>
+                <br/>
+                <h3>
+                The Randy Carpenter Memorial Foundation is proud to announce that the annual golf and poker tournament are moving venues.
+                </h3> 
+                <h3>    
+                The Tournament will be moving to <a href="http://www.stonecreekgolfclub.net/">Stone Creek Golf Club</a> in Oregon City, Oregon.
+                </h3>
+                <h3>    
+                The tournament will be on June 27, 2015 with a 1:00 PM tee time, immediately followed by dinner and auction at the golf course.
+                </h3>
+                <h3>
+                The cost of the tournament will be $120 per person. This fee includes entry into the golf tournament, and admission to the dinner and charity auction after the tournament. Tickets for just the dinner can be purchased at the door for a cost of $20.
+                Payment for Golf can either be on the day of the tournament at registration or you can use the Donate now button after completing your team sign up form. If you use the Donate Now button please bring a copy of your receipt as proof of payment at registration.
+                </h3>
+                <h3>
+                The annual Randy Carpenter Memorial Poker Tournament will be held on June 26, with registration starting at 5:00 PM and first hands being dealt at 6:00 PM and the tournament ending no later the midnight. The entry will be a $75 donation to the foundation either paid online or at the door. There will be one $75 rebuy and one $50 addon avaliable to all players for the first hour at the tournament. There will also be a no host bar at the event. First place prize will be a $5000 pre-paid Visa card. We will have a payout for the first nine place in the tournament. More information regarding the location of the Poker Tournament will follow. 
+                </h3>
+                <h3>
+                Please check back here for more details, also make sure to follow RCMF on <a href="https://www.facebook.com/pages/Randy-Carpenter-Memorial-Foundation/286093802079">Facebook.</a>
+                </h3>
+                <div id='thanks'></div>
+                <button class="btn" id='form' data-toggle="modal" data-target="#golfForm">Golf Signup</button>
+                <button class="btn" id='form' data-toggle="modal" data-target="#pokerForm">Poker Signup</button>  		
+                </div>	
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="golfForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title">RMCF Golf Team Sign Up</h4>
+            </div>
+
+            <div class="modal-body" id="modalbody">
+                <form id="golfForm" method="post" class="form-horizontal" action='http://www.ipower.com/scripts/formemail.bml'>
+                           <div class="form-group">
+                    <div class="col-xs-5">
+                        <input type="hidden" class="form-control" name="my_email" value='registrations@ourfallenbrother.org' />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-xs-5">
+                        <input type="hidden" class="form-control" name="subject" value="A golf tournament team form." />
+                    </div>
+                </div>
+                 <div class="form-group">
+                    <div class="col-xs-5">
+                        <input type="hidden" class="form-control" name="thankyou_url" value="http://www.ourfallenbrother.com/#golfForm" />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-xs-5">
+                        <input type="hidden" name="order" value="Team Name,Team Contact,Team Contact's Phone, Team Contact's Email,Team Member 1,Team Member 1 Shirt,Team Member 2,Team Member 2 Shirt,Team Member 3,Team Member 3 Shirt,Team Member 4,Team Member 4 Shirt">
+                    </div>
+                </div>
+                
+                <div class="form-group">
+	                <label class="col-xs-3 control-label">Team Name</label>
+                    <div class="col-xs-5">
+                    <input type="text" class="form-control" name="Team Name" />
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="col-xs-3 control-label">Team Contact</label>
+                    <div class="col-xs-5">
+                        <input type="text" class="form-control" name="Team Contact" />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-xs-3 control-label">Team Contact's Phone Number</label>
+                    <div class="col-xs-5">
+                        <input type="text" class="form-control" name="Team Contact's Phone" />
+                    </div>
+                </div>
+                 <div class="form-group">
+                    <label class="col-xs-3 control-label">Team Contact's Email</label>
+                    <div class="col-xs-5">
+                        <input type="email" class="form-control" name="Team Contact's Email" />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-xs-3 control-label">Team Member #1</label>
+                    <div class="col-xs-5">
+                        <input type="text" class="form-control" name="Team Member 1" />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-xs-3 control-label">Team Member #2</label>
+                    <div class="col-xs-5">
+                        <input type="text" class="form-control" name="Team Member 2" />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-xs-3 control-label">Team Member #3</label>
+                    <div class="col-xs-5">
+                        <input type="text" class="form-control" name="Team Member 3" />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-xs-3 control-label">Team Member #4</label>
+                    <div class="col-xs-5">
+                        <input type="text" class="form-control" name="Team Member 4" />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-xs-3 control-label">Member #1 Shirt Size</label>
+                    <div class="col-xs-5">
+                        <select type="form-control" name="Team Member 1 Shirt">
+                        	<option value="Small">Small</option>
+  						  	<option value="Medium">Medium</option>
+  							<option value="Large">Large</option>
+  							<option value="XL">X-Large</option>
+  							<option value="XXL">XX-Large</option>
+  						</select>	
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-xs-3 control-label">Member #2 Shirt Size</label>
+                    <div class="col-xs-5">
+                        <select type="form-control" name="Team Member 2 Shirt">
+                        	<option value="Small">Small</option>
+  						  	<option value="Medium">Medium</option>
+  							<option value="Large">Large</option>
+  							<option value="XL">X-Large</option>
+  							<option value="XXL">XX-Large</option>
+  						</select>	
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-xs-3 control-label">Member #3 Shirt Size</label>
+                    <div class="col-xs-5">
+                        <select type="form-control" name="Team Member 3 Shirt">
+                        	<option value="Small">Small</option>
+  						  	<option value="Medium">Medium</option>
+  							<option value="Large">Large</option>
+  							<option value="XL">X-Large</option>
+  							<option value="XXL">XX-Large</option>
+  						</select>	
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-xs-3 control-label">Member #4 Shirt Size</label>
+                    <div class="col-xs-5">
+                        <select type="form-control" name="Team Member 4 Shirt">
+                        	<option value="Small">Small</option>
+  						  	<option value="Medium">Medium</option>
+  							<option value="Large">Large</option>
+  							<option value="XL">X-Large</option>
+  							<option value="XXL">XX-Large</option>
+  						</select>	
+                    </div>
+                </div>
+                <div class="form-group" id="golfThankYou">
+                    <div class="col-xs-5">
+                    </div>
+                </div>
+                <div id='pokerbtn'>
+                    <input class="btn btn-success" type="submit" value="Sign Up!" id="submit">
+                    <input class="btn btn-success" value='Pre-Pay Now!' data-ct-checkout="rcmf.golf-registration"s>                    
+                    </div>
+                </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="pokerForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title">RMCF Poker Tournament</h4>
+            </div>
+
+            <div class="modal-body">
+                <form id="golfForm" method="post" class="form-horizontal" action='http://www.ipower.com/scripts/formemail.bml'>
+                <div class="form-group">
+	                <label class="col-xs-3 control-label">First Name</label>
+                    <div class="col-xs-5">
+                    <input type="text" class="form-control" name="First Name" />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-xs-3 control-label">Last Name</label>
+                    <div class="col-xs-5">
+                    <input type="text" class="form-control" name="Last Name" />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-xs-3 control-label">Phone Number</label>
+                    <div class="col-xs-5">
+                        <input type="text" class="form-control" name="Player's Phone Number" />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-xs-3 control-label">Are you a firefighter?</label>
+                    <div class="col-xs-5">
+                        <input type="checkbox" class="" name="Firefighter" id='watch-me' />
+                    </div>
+                </div>
+                <div class="form-group" id="show-me">
+                    <label class="col-xs-3 control-label">If yes, what department and station are you from?</label>
+                    <div class="col-xs-5">
+                        <input type="text" class="form-control" name="Department and Station" />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-xs-3 control-label">Email</label>
+                    <div class="col-xs-5">
+                        <input type="email" class="form-control" name="Player's Email" />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-xs-3 control-label">City</label>
+                    <div class="col-xs-5">
+                        <input type="text" class="form-control" name="Player's City" />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-xs-3 control-label">State</label>
+                    <div class="col-xs-5">
+                        <input type="text" class="form-control" name="Player's State" />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-xs-5">
+                        <input type="hidden" class="form-control" name="my_email" value='pokerinfo@ourfallenbrother.org' />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-xs-5">
+                        <input type="hidden" class="form-control" name="subject" value="A poker player has signed up" />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-xs-4">
+                        <input type="hidden" class="form-control" name="thankyou_url" value="http://www.ourfallenbrother.com/#pokerForm" />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-xs-4">
+                         <input type="hidden" name="order" value="First Name,Last Name,Firefighter,Department and Station,Player's Email, Player's City,Player's State">
+                    </div>
+                </div>        
+                <div class="form-group" id="pokerThankYou">
+                    <div class="col-xs-5">
+                        
+                    </div>
+                </div>
+                <div id='pokerbtn'>
+                    <input class="btn btn-success" type="submit" value="Sign Up!" id="submit"/>
+                    <input class="btn btn-success" value="Pre-Pay Now!" data-ct-checkout="rcmf.poker-registration--4"/>
+                </div> 
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="supporters">
+ <div class="container">
+  <div class="row pagination-centered">
+  <h2  class="pad">Randy Carpenter Memorial Foundation Diamond & Platinum Sponsors</h2>
+  </div>
+ <!--  Carousel - consult the Twitter Bootstrap docs at
+      http://twitter.github.com/bootstrap/javascript.html#carousel -->
+<div id="this-carousel-id" class="carousel slide"><!-- class of slide for animation -->
+  <div class="carousel-inner">
+    <div class="item active"><!-- class of active since it's the first item -->
+      <a href='http://www.cabelas.com' target="_blank"><img src="pictures/sponsors/Cabelassmaller.png" alt=""/></a>
+    </div>
+<!--    <div class="item">
+       <a href='http://www.piercemfg.com/' target="_blank"><img src="pictures/sponsors/piercedemo.jpg" alt=""/></a>
+    </div>
+    <div class="item">
+      <a href="http://www.scottsafety.com" target="_blank"><img src="pictures/sponsors/scottdemo.jpg" alt=""/></a>
+    </div> -->
+<!--     <div class="item">
+      <img src="http://placehold.it/1200x480" alt="">
+    </div>
+ -->  </div><!-- /.carousel-inner -->
+  <!--  Next and Previous controls below
+        href values must reference the id for this carousel -->
+    <a class="carousel-control left" href="#this-carousel-id" data-slide="prev"></a>
+    <a class="carousel-control right" href="#this-carousel-id" data-slide="next"></a>
+
+    <br/>
+</div><!-- /.carousel -->
+ </div>
+</div>
+  <div id="features">
+	<div class="container pag">
+		<!--<div class="row">-->
+		  <h1  class="col-sm-12 pad">About Us</h1>
+			<div  class="col-sm-4 pad">
+			<a href='#' data-toggle='modal' data-target='#aboutFoundation'><img src="pictures/memorialsmall.jpg" class="img-rounded"/></a>
+			<h2>About the Foundation</h2>
+			</div>
+			<div  class="col-sm-4 pad">
+			<a href='#' data-toggle='modal' data-target='#aboutRandy'><img class="img-rounded" src="pictures/randy.jpg"/></a>
+			<h2>About Randy</h2>
+			<p></p>
+			</div>
+			<div  class="col-sm-4 pad">
+            <a href='#' data-toggle='modal' data-target='#trainingrequest'><img class="img-rounded" src="pictures/equipment.jpg"/></a>
+            <h2>Apply for A Grant</h2>
+        
+        </div>
+		</div>
+	</div>
+<div class="modal fade" id="aboutRandy" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                
+                <h2 class="modal-title" style='text-align: center'>Captain Randy "Carp" Carpenter
+                </h2>
+                </div>
+            <div class="modal-body">
+               	<img src="pictures/randy.jpg" id ='carp' class="img-rounded"><br/>
+               	<h2 style="text-align: center">
+				Coos Bay Fire Department
+				</h2>
+				<h3>
+  				A career firefighter, Captain Randy E. Carpenter, 46, died November 25, 2002, when the burning roof of a business in downtown Coos Bay collapsed. Randy had been a firefighter for a total of 23 years. He began his career as a volunteer, and later became a full-time firefighter with Baker City Fire Department. In February 1989, he accepted a position with Coos Bay Fire Department and his dedication there truly established his legacy. He was Baker City's 1983 'Firefighter of the Year', and Coos Bay's 1991 'Firefighter of the Year'. He was also Coos Bay"s 1999 'EMT of the Year'.
+  				</h3>
+  				<h3>
+  				Randy's interest in firefighting began early in his life when he would accompany his father, a volunteer firefighter for Baker City for 46 years, to the firestation. During the time he was a volunteer, Randy was very active in the Oregon Volunteer Firefighter Association and served in all State Association offices, including president. Randy was a consummate professional and was highly qualified in all operational and procedural aspects of his job. He was part of the original efforts to bring a hazardous materials unit to Coos Bay and was a specialist in HAZMAT. He was qualified and certified to teach all subjects of firefighting and regularly taught courses in CPR and EMT Basic at the local college in Coos Bay. He took great pride in his job and treasured the trust and respect of all his firefighter brethren. He was an active member of the International Association of Firefighters, IAFF, Local 2935 (serving as President in 1991), and the Regional Hazardous Materials Team. He was also skilled in construction and built a successful contracting business with his good friend Jim Bush.
+  				</h3>
+  				<h3>
+  				The love of family was very foremost in Randy's life. He was so proud of and totally dedicated to his two girls, Sarah and Stephanie, with priority in providing for their needs. His parents, Wayne and Dru, three brothers, Kerry, Brad, and Jeff, their spouses and families also survived him.
+  				</h3>
+  				<h3>
+  				Randy was usually very successful when he took his boat out "crabbing", and was always happy when he could take time to go water-skiing, at which he was very adept. He especially loved spending time in Eastern Oregon (Dad & Mom referred to him as their "homing pigeon") where he would hunt deer, elk, and antelope, along with working with longtime friends on the Bunch Ranch near Durkee. While Randy had a wonderful sense of humor and enjoyed playing a practical joke, he never wanted the limelight, just a way to be of help. His honesty and integrity were unquestionable. All his family and his countless friends, who were like family to him, will miss Randy beyond description.
+  				</h3>
+  				<h3>
+  				The Randy Carpenter Memorial Firefighter Training Fund has been established to provide funds to aid in needed training for Oregon and Southwest Idaho firefighters and emergency personnel.
+  				</h3>
+            </div>	
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="aboutFoundation" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>          
+                <h2 class="modal-title" style='text-align: center'>The Randy Carpenter Memorial Foundation
+                </h2>
+                </div>
+            <div class="modal-body">
+               	<img src="pictures/memorial.jpg" id ='carp' class="img-rounded"><br/>
+               	<h2 style="text-align: center">
+				HISTORY OF THE FOUNDATION
+				</h2>
+				<h3>
+				On November 25th of 2002 the community of Coos Bay OR. suffered a tragic loss when three of their local firefighters lost their lives in the line of duty. Randy Carpenter, Jeff Common, and Chuck Hanners all gave their lives as heroes serving their community while fighting a fire in a local auto parts store. After the roof of the store collapsed, the fire was extinguished, and the smoke had cleared, three families and a community mourned their great loss.
+				</h3>
+				<h3>
+				Of course, as with any accident, many questions arose, most asked without answer. Was there something that could have been done to prevent this horrible event? In response, the family and friends of Randy Carpenter have established a foundation in memory of their son, brother, father, uncle, and friend. Everything we do is done with the hopes of helping to prevent future tragic loss of firefighter's lives.
+				</h3>
+				<h3>
+				Randy believed strongly in training and would often state, "Preparation is the separation between a good firefighter and the best!" Continuing in this belief the Randy Carpenter Memorial Foundation is dedicated to the education and preparation of firefighters everywhere.
+				</h3>
+				<h2 style="text-align: center">
+				PURPOSE OF THE FOUNDATION
+				</h2>
+				<h3>
+				This site, and the Foundation named in his honor, are dedicated to the memory and vision of our Fallen Brother, Capt. Randy Carpenter, Coos Bay Fire and Rescue. Randy’s dedication and selfless commitment to helping train his fire brethren will forever serve as our call to action.
+				</h3>
+				<h3>
+                As training budgets get slashed or become non-existent, our Mission becomes even more critical! Every penny raised by the RCMF is granted back to Firefighters for critical hands on training, training assessment, or specialized education. The RCMF provides information and training that otherwise might not be available or utilized. To date (2014), thanks to the selfless efforts of our Members and the incredible support shown by our Participants, the RCMF has provided over $200,000 in training and education to hundreds of Firefighters in Oregon and Western Idaho.
+				<h3>
+                Randy worked tirelessly so that after the rescue was made…the fire out…the job done or the shift over; every Firefighter went home safely. We of the Randy Carpenter Memorial Foundation aspire to continue Randy’s commitment. Thank you for assisting us in carrying on Randy’s legacy.
+				</h3>
+				<h3>
+                Learn more, practice often, train always and BE SAFE! Firefighters will ALWAYS be there for us!  Let’s be there for THEM!
+				</h3>
+				<h4>
+                *All donations are tax deductible
+				</h4>
+            </div>	
+            </div>
+            </div>	
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="trainingrequest" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                
+                <h2 class="modal-title">Request for Training Grant
+                </h2>
+                </div>
+                <div class="modal-body">
+
+                <h3>
+                The Randy Carpenter Memorial Foundation will review all requests for training grants that are submitted to the foundation. Trainings that meet the initial critera for funding by the foundation will be put forward for a vote of the Board of Directors of the RCMF.
+                </h3>
+                <h3>
+                To apply for a grant you should send via email an attached request for funds on the letterhead of the department or organization that will be providing the training. Please include a discription of the training and how it will provide training or improved skills directly to firefighters. Please include the amount that you are requesting from the foundation as well as a budget for your training event for review by the Board of Directors.
+                </h3>
+                <br/>
+                <h3>
+                Please send this email to:
+                <br/>
+                requests@ourfallenbrother.org
+                </h3>
+                </div>  
+        </div>
+    </div>
+/div>
+
+
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script type="text/javascript" src="https://s3.amazonaws.com/crowdtiltopen/CrowdtiltOpen/checkout-1.1.0.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+</body></html>
