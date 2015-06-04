@@ -41,6 +41,13 @@ $('#watch-me').change(function(){
             $('#show-me').hide();
 
 });
+$('#tvwatch-me').change(function(){
+        if(this.checked)
+            $('#tvshow-me').show();
+        else
+            $('#tvshow-me').hide();
+
+});
 
 
 $(document).ready(function () {
@@ -62,12 +69,14 @@ $(document).ready(function () {
         else if(target=="TVgolfForm"){
           $("#TVgolfForm").modal("show");
           $("<h4></h4>").text("Thank your for your submission. Please click the Payment button below to pre-pay for the tournament.").appendTo("#TVgolfThankYou");
+          $("#tvgolfform").hide();
           $("#tvgolfsignup").hide();
           $("#tvgolfbtn").show();
         }
         else if(target=="TVpokerForm"){
           $('#TVpokerForm').modal("show");
           $("<h4></h4>").text("Thank your for your submission. Please click the Payment button below to pre-pay for the tournament.").appendTo("#TVpokerThankYou");
+          $("#tvpokerform").hide();
           $("#tvpokersignup").hide();
           $("#tvpokerbtn").show();        
         }
