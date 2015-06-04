@@ -49,18 +49,27 @@ $(document).ready(function () {
         if(target=="pokerForm"){
           $('#pokerForm').modal("show");
           $("<h4></h4>").text("Thank your for your submission. Please click the Payment button below to pre-pay for the tournament.").appendTo("#pokerThankYou");
+          $("#pokersignup").hide();
+          $("#pokerbutton").show();
         }
+
         else if(target=="golfForm"){
           $("#golfForm").modal("show");
           $("<h4></h4>").text("Thank your for your submission. Please click the Payment button below to pre-pay for the tournament.").appendTo("#golfThankYou");
+          $("#golfsignup").hide();
+          $("#golfbtn").show();
         }
         else if(target=="TVgolfForm"){
           $("#TVgolfForm").modal("show");
           $("<h4></h4>").text("Thank your for your submission. Please click the Payment button below to pre-pay for the tournament.").appendTo("#TVgolfThankYou");
+          $("#tvgolfsignup").hide();
+          $("#tvgolfbtn").show();
         }
         else if(target=="TVpokerForm"){
           $('#TVpokerForm').modal("show");
           $("<h4></h4>").text("Thank your for your submission. Please click the Payment button below to pre-pay for the tournament.").appendTo("#TVpokerThankYou");
+          $("#tvpokersignup").hide();
+          $("#tvpokerbtn").show();        
         }
     else{}    
    
