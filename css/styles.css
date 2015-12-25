@@ -214,6 +214,24 @@ background-repeat: repeat-x;
   padding-right: 10px;
   padding-left: 10px;
 }
+
+.smallvid video {
+  border-radius: 10px;
+  width: 200px;    
+
+
+}
+
+.smallpic {
+    width: 200px;
+    height: 150px;
+}
+
+
+.applygrant {
+    width: 200px;
+    height: 190px;
+}
 @media (max-width: 1024px){
   .head{
     background: url('/pictures/firefighter2.jpg');
