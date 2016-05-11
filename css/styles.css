@@ -54,7 +54,7 @@ html{
   background-image: url("/pictures/gray.png");
   padding:130px 0;
   color:#f9f9f9;
- 
+
 }
 
 #features p {
@@ -198,7 +198,7 @@ background-repeat: repeat-x;
 }
 .modal {
     overflow-y:auto;
-    
+
 }
 #show-me {
   display: none;
@@ -213,6 +213,10 @@ background-repeat: repeat-x;
 #pokerThankYou{
   padding-right: 10px;
   padding-left: 10px;
+}
+#sponsorbutton {
+  font-size: 12pt;
+  white-space: normal;
 }
 @media (max-width: 1024px){
   .head{
@@ -234,7 +238,7 @@ background-repeat: repeat-x;
   #features{
     padding-top: 100px;
   }
-  
+
 }
 @media (max-width: 767px){
   .head{

@@ -78,11 +78,18 @@ $(document).ready(function () {
           $("<h4></h4>").text("Thank you for your registration. Payment will be accepted on the day of the tournament.").appendTo("#TVpokerThankYou");
           $("#tvpokerform").hide();
           $("#tvpokersignup").hide();
-          $("#tvpokerbtn").show();        
+          $("#tvpokerbtn").show();
         }
-    else{}    
-   
+    else{}
+
 	};
 });
-
+function printDiv(divName) {
+ alert('s');
+ var printContents = document.getElementById(divName).innerHTML;
+ w=window.open();
+ w.document.write(printContents);
+ w.print();
+ w.close();
+};
 });
